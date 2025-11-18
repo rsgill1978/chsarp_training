@@ -1,0 +1,6 @@
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\23\CompositeFormatting\bin\Debug\CompositeFormatting.exe.config
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\23\CompositeFormatting\bin\Debug\CompositeFormatting.exe
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\23\CompositeFormatting\bin\Debug\CompositeFormatting.pdb
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\23\CompositeFormatting\obj\Debug\CompositeFormatting.csproj.CoreCompileInputs.cache
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\23\CompositeFormatting\obj\Debug\CompositeFormatting.exe
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\23\CompositeFormatting\obj\Debug\CompositeFormatting.pdb
