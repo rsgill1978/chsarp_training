@@ -1,0 +1,6 @@
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\19\TryParse\bin\Debug\TryParse.exe.config
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\19\TryParse\bin\Debug\TryParse.exe
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\19\TryParse\bin\Debug\TryParse.pdb
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\19\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\19\TryParse\obj\Debug\TryParse.exe
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\19\TryParse\obj\Debug\TryParse.pdb

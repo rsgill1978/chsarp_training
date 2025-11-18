@@ -1,0 +1,6 @@
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\18\NumericFormatting\bin\Debug\NumericFormatting.exe.config
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\18\NumericFormatting\bin\Debug\NumericFormatting.exe
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\18\NumericFormatting\bin\Debug\NumericFormatting.pdb
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\18\NumericFormatting\obj\Debug\NumericFormatting.csproj.CoreCompileInputs.cache
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\18\NumericFormatting\obj\Debug\NumericFormatting.exe
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\18\NumericFormatting\obj\Debug\NumericFormatting.pdb
