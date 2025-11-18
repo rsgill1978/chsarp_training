@@ -1,0 +1,6 @@
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\06\Operators\bin\Debug\Operators.exe.config
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\06\Operators\bin\Debug\Operators.exe
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\06\Operators\bin\Debug\Operators.pdb
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\06\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\06\Operators\obj\Debug\Operators.exe
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\06\Operators\obj\Debug\Operators.pdb

@@ -1,0 +1,6 @@
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\11\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\11\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\11\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\11\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\11\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\Raminder.gill.WNCWABASH\OneDrive - WabashNational\Projects\CSharp\11\Exercise2\obj\Debug\Exercise2.pdb
